@@ -1,2 +1,2 @@
-# datacamp_data_analyst_certification
-Project for Datacamp's Professional Data Analyst Certification
+# My solution for the Datacamp Professional Data Analyst Certification
+Everything was done using Python with Jupyter notebook and the included libraries.
